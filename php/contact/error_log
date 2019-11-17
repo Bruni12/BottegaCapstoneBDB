@@ -1,0 +1,2 @@
+[14-Nov-2019 16:14:29] PHP Parse error:  syntax error, unexpected T_STRING in /home1/sinth/public_html/iontrail.com/brenden/php/contact/contact.php on line 87
+[14-Nov-2019 16:15:58] PHP Catchable fatal error:  Argument 1 passed to Validation::__construct() must be an array, string given, called in /home1/sinth/public_html/iontrail.com/brenden/php/contact/contact.php on line 83 and defined in /home1/sinth/public_html/iontrail.com/brenden/php/contact/lib/validation/validation.php on line 53
