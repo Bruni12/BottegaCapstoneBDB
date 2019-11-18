@@ -37,7 +37,8 @@
     align-items: center;
     font-family: "Ubuntu Condensed", sans-serif;
     box-shadow: inset 0px -26px 79px -8px rgba(0, 0, 0, 0.58)
-}
+  }
+
 
 .features-section > .columns-wrapper {
     width: 1000px;
@@ -45,21 +46,21 @@
     justify-content: center;
 }
 
+
 .features-section > .columns-wrapper > .column {
-    padding: 20px;
-    margin: 42px;
     text-align: center;
-    border-bottom: 5px solid transparent;
+    border-bottom: 3px solid transparent;
     border-radius: 10px;
     transition: 1s;
 }
  
 .features-section > .columns-wrapper > .column:hover {    
-    border-bottom: 5px solid #11122b;
+    border-bottom: 4px solid #11122b;
 }
 
 .features-section > .columns-wrapper > .column :nth-child(1) {
     font-size: 3em;
+    color:#11122b;
 } 
 
 .features-section > .columns-wrapper > .column :nth-child(2) {
